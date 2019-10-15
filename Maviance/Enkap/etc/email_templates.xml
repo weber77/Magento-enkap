@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="enkap_payment_received" label="Enkap Payment Received" file="enkap_payment_received.html" type="html" module="Maviance_Enkap" area="frontend"/>
+    <template id="enkap_payment_failed" label="Enkap Payment Failed" file="enkap_payment_failed.html" type="html" module="Maviance_Enkap" area="frontend"/>
+</config>
